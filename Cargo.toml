@@ -1,0 +1,14 @@
+[package]
+name = "myhello"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["Rui Ramos", "Rui Ramos <no-reply@rust-lang.org>"]
+description = "A HelloWorld Application for AUR testing purposes"
+homepage="https://rramos.github.io"
+repository = "https://github.com/rramos/rust-helloworld.git"  
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
